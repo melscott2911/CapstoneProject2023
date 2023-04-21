@@ -1,7 +1,10 @@
 # Capstone_Project_PriceofHealth
 Title: The Effects of Patient Lifestyle Attributes on Rising Insurance Costs
+
 Author: Melissa L. Scott
+
 School: Northwest Missouri State University, Maryville MO 64468, USA
+
 Email: S545727@nwmissouri.edu
 
 # Goals of this Research
