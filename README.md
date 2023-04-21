@@ -43,4 +43,40 @@ estimation of costs.
 
 # Future Work
 In my future work, I would like to compare other studies with similar attributes to cross-compare my results. I would also test different machine learning algorithms to attempt to get a stronger correlation between the attributes and cost factors. I also think that it would be helpful to get specific insurance company information, as costs can vary between them. These factors would present an even more compelling argument to help patients decrease health and cost risks in the future and motivate others to put their health at the forefront of importance.
+# Referenced Tutorials
+https://youtu.be/eP_BlHJLL3I
+
+https://www.youtube.com/watch?v=MpF9HENQjDo
+
+https://www.youtube.com/watch?v=4Cp6PkBKqX4Links
+ 
+https://www.youtube.com/watch?v=Qz7erR3zVUcLinks 
+
+https://www.youtube.com/watch?v=4yI3vVe0JosLinks 
+
+https://www.youtube.com/watch?v=fhi4dOhmW-gLinks
+
+https://www.youtube.com/watch?v=N7MqGcBYiisLinks 
+
+https://www.youtube.com/watch?v=-o3AxdVcUtQLinks 
+
+https://www.youtube.com/watch?v=dP170R-wO-8Links 
+
+https://www.youtube.com/watch?v=QWgg4w1SpJ8Links 
+
+https://www.youtube.com/watch?v=9m4n2xVzk9oLinks 
+
+https://www.youtube.com/watch?v=FLuqwQgSBDw&list=PLupD_xFct8mFDeCqoUAWZpUddeqmT28_LLinks 
+
+https://www.youtube.com/watch?v=7O4dpR9QMIMLinks
+
+https://www.youtube.com/watch?v=38SUUaMX5RgLinks
+
+https://www.youtube.com/watch?v=Up6KLx3m2wwLinks
+
+https://www.youtube.com/watch?v=gN1nQT-lA_kLinks 
+
+https://www.youtube.com/watch?v=olFxW7kdtP8Links 
+
+https://www.youtube.com/watch?v=BOk1hlCPW0cLinks 
 
