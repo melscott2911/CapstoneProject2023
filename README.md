@@ -37,7 +37,8 @@ results and figures to support my data.
 
 # Results
 ![image](https://user-images.githubusercontent.com/97756987/233712017-025f1034-a210-43cb-93be-953c97dfd48d.png)
-
+# Conclusion
+There are many factors that play into a patient's health and environment. As seen from the results extracted through my research, attributes, such as age, can be a likely factor in the increase of medical insurance costs. From these results, it can be assumed that there is a strong relationship between a patient's characteristics (BMI, sex/gender, number of children, age, smoking status, and region) and the medical costs that come with those associations. Although there is not a constant increase with one attribute and its adjacent medical cost, we can safely assume that there may pose a potential risk for an increase in cost.
 # Limitations
 There are vast amounts of insurance companies, medical conditions and cost
 variances. This research will take only a snapshot of patient costs and does not
