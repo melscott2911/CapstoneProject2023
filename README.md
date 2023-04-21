@@ -20,16 +20,16 @@ This is a structured data set in a CSV format and is made up of 7 columns and 1,
 tive of the medical costs billed by health insurance.
 
 # Project Implementation
-– 1) Pick a topic of importance, creating an Overleaf account and begin re-
+1) Pick a topic of importance, creating an Overleaf account and begin re-
 search on the topic.
 
-– 2) Choose a reliable dataset/source that will help showcase my project
+2) Choose a reliable dataset/source that will help showcase my project
 
-– 3) Take the dataset and clean it prior to running it to be analyzed.
+3) Take the dataset and clean it prior to running it to be analyzed.
 
-– 4) Use machine learning to diagnose problems and possible solutions.
+4) Use machine learning to diagnose problems and possible solutions.
 
-– 5) Take my findings and create my project layout as well as display my
+5) Take my findings and create my project layout as well as display my
 results and figures to support my data.
 
 # Results
