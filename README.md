@@ -7,6 +7,9 @@ School: Northwest Missouri State University, Maryville MO 64468, USA
 
 Email: S545727@nwmissouri.edu
 
+# Project Layout/Requirements
+![image](https://user-images.githubusercontent.com/97756987/233713753-543a5191-cc57-4c79-b7e5-bcb64f0ca8c7.png)
+
 # Goals of this Research
 This data research project aims to present patients with evidence that supports the correlation of health insurance costs with the following attributes: BMI, smoking history, sex, age, and children. The problem I want to aim to solve is how patients can try to avoid higher health costs and make choices that could help with lowering their risk of being subject to higher insurance premiums. This discovery will be organized through process components, data extraction and cleaning, figures, and results summary.
 
