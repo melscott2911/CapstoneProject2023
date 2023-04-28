@@ -50,12 +50,15 @@ In my future work, I would like to compare other studies with similar attributes
 # References
 
 1.https://www.nwmissouri.edu/login/
+
 2. Carrie Riestenberg, Anika Jagasia, D.M.R.P.B.R.A.: Health care-related economic
 burden of polycystic ovary syndrome in the united states: Pregnancy-related and
 long-term health consequences, https://academic.oup.com/jcem/article/107/2/
 575/6371160#google_vignette
+
 3. CHOI, M.: Medical cost personal datasets, https://www.kaggle.com/datasets/
 mirichoi0218/insurance
+
 4. Scott, M.: Capstoneproject2023, https://github.com/melscott2911/
 CapstoneProject2023
 []
