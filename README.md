@@ -47,6 +47,20 @@ estimation of costs.
 
 # Future Work
 In my future work, I would like to compare other studies with similar attributes to cross-compare my results. I would also test different machine learning algorithms to attempt to get a stronger correlation between the attributes and cost factors. I also think that it would be helpful to get specific insurance company information, as costs can vary between them. These factors would present an even more compelling argument to help patients decrease health and cost risks in the future and motivate others to put their health at the forefront of importance.
+# References
+
+1.https://www.nwmissouri.edu/login/
+2. Carrie Riestenberg, Anika Jagasia, D.M.R.P.B.R.A.: Health care-related economic
+burden of polycystic ovary syndrome in the united states: Pregnancy-related and
+long-term health consequences, https://academic.oup.com/jcem/article/107/2/
+575/6371160#google_vignette
+3. CHOI, M.: Medical cost personal datasets, https://www.kaggle.com/datasets/
+mirichoi0218/insurance
+4. Scott, M.: Capstoneproject2023, https://github.com/melscott2911/
+CapstoneProject2023
+[]
+
+
 # Referenced Tutorials
 https://youtu.be/eP_BlHJLL3I
 
