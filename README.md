@@ -62,10 +62,8 @@ long-term health consequences, https://academic.oup.com/jcem/article/107/2/575/6
 4. Scott, M.: Capstoneproject2023, https://github.com/melscott2911/CapstoneProject2023
 
 5. Association, A.M.: Understanding the affordable care act, https:
-//www.ama-assn.org/delivering-care/patient-support-advocacy/
-understanding-affordable-care-act#:~:text=The%20Affordable%20Care%
-20Act%20(ACA,a%20better%20health%20care%20system.
-3
+//www.ama-assn.org/delivering-care/patient-support-advocacy/understanding-affordable-care-act#:~:text=The%20Affordable%20Care%20Act%20(ACA,a%20better%20health%20care%20system.
+
 
 
 
