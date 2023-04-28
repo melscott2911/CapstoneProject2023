@@ -18,6 +18,8 @@ Link to data set: https://www.kaggle.com/datasets/mirichoi0218/insurance
 Title: Medical Cost Personal Datasets
 # Overleaf Report
 Link to Overleaf Report: https://www.overleaf.com/read/cbbwyyjmhzqx
+# GitHub Repository
+https://github.com/melscott2911/CapstoneProject2023
 # Description of Data
 This is a structured data set in a CSV format and is made up of 7 columns and 1,338 rows.This was extracted directly from the Kaggle website and downloaded on to my local machine. No further data was extracted due to the large file size (55.63 kB) and the quality that this data brings to support my research. The columns represent the following US patient attributes that affect health insurance cost: age, sex, BMI, number of children, smoking status, and region. The last column is representa-
 tive of the medical costs billed by health insurance.
@@ -53,15 +55,11 @@ In my future work, I would like to compare other studies with similar attributes
 
 2. Carrie Riestenberg, Anika Jagasia, D.M.R.P.B.R.A.: Health care-related economic
 burden of polycystic ovary syndrome in the united states: Pregnancy-related and
-long-term health consequences, https://academic.oup.com/jcem/article/107/2/
-575/6371160#google_vignette
+long-term health consequences, https://academic.oup.com/jcem/article/107/2/575/6371160#google_vignette
 
-3. CHOI, M.: Medical cost personal datasets, https://www.kaggle.com/datasets/
-mirichoi0218/insurance
+3. CHOI, M.: Medical cost personal datasets, https://www.kaggle.com/datasets/mirichoi0218/insurance
 
-4. Scott, M.: Capstoneproject2023, https://github.com/melscott2911/
-CapstoneProject2023
-[]
+4. Scott, M.: Capstoneproject2023, https://github.com/melscott2911/CapstoneProject2023
 
 
 # Referenced Tutorials
